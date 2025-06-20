@@ -1,0 +1,19 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "title": "The Brave Little Toaster",
+      "summary": "A group of appliances set off on a journey"
+    },
+    {
+      "id": 2,
+      "title": "The Princess Bride",
+      "summary": "A fairy tale adventure about a beautiful young woman and her one true love"
+    },
+    {
+      "id": 3,
+      "title": "Spirited Away",
+      "summary": "A girl enters a spirit world and must rescue her parents"
+    }
+  ]
+}
