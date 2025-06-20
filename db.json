@@ -8,12 +8,23 @@
     {
       "id": 2,
       "title": "The Princess Bride",
+<<<<<<< HEAD
       "summary": "A fairy tale adventure about a beautiful young woman and her one true love"
+=======
+      "summary": "A mix of swashbuckling, romance, and comedy"
+>>>>>>> d06ec7766dd46ec18ae0bbf3549d3aec2354d6f2
     },
     {
       "id": 3,
       "title": "Spirited Away",
+<<<<<<< HEAD
       "summary": "A girl enters a spirit world and must rescue her parents"
     }
   ]
 }
+=======
+      "summary": "A young girl works to reunite with her parents while trapped in a supernatural realm"
+    }
+  ]
+}
+>>>>>>> d06ec7766dd46ec18ae0bbf3549d3aec2354d6f2
